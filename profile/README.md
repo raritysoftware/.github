@@ -2,12 +2,12 @@
 
 ![logo](https://raw.githubusercontent.com/raritysoftware/social/refs/heads/main/assets/logo.png)
 
-**Birliklte geliştiriyoruz.**
+**We build it together.**
 
-🙋‍♀️ Biz kimiz, kısca 👉 güzel projeler inşa ediyoruz, bir de özgür yazılım ise daha ne olsun.
+🙋‍♀️ Who are we? 👉 Just folks building cool projects — and if it’s free software, even better.
 
-🪚 Katkı sağlamak istesem? 👉  kafana estiği gibi pull request açabilirsin dost 🫡.
+🪚 Want to contribute? 👉 Feel free to open a pull request whenever inspiration strikes 🫡
 
-👩‍💻 Kaynaklar 👉  kaynaklarımıza göz atabilirsin [docs](#).
+👩‍💻 Resources 👉 You can check out our blog [here](#)
 
-🍿 Boş zamanımızda naparız 👉 çay + goygoy.
+🍿 What do we do in our free time? 👉 Tea + banter, obviously.
