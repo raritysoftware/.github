@@ -1,4 +1,4 @@
-## Rarity Software
+## [Rarity Software](https://raritysoftware.github.io)
 
 ![logo](https://raw.githubusercontent.com/raritysoftware/social/refs/heads/main/assets/logo.png)
 
